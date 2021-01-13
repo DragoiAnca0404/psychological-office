@@ -10,10 +10,6 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.*;
 
-/**
- *
- * @author ARKAN01D
- */
 public class Utils {
     public static final Font fnt30 = new Font("TimesRoman", Font.ITALIC, 30);
     public static final Font fnt24 = new Font("TimesRoman", Font.ITALIC, 24);
