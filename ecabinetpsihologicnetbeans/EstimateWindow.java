@@ -11,10 +11,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ARKAN01D
- */
+
 class EstimateWindow extends Frame{
     private final int MIN_PROG=1;
     private final int MAX_PROG=30;
