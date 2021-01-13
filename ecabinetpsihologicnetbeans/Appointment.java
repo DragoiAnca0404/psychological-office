@@ -9,10 +9,7 @@ import java.io.Serializable;
 import java.time.*;
 import java.util.Date;
 
-/**
- *
- * @author ARKAN01D
- */
+
 public class Appointment implements Serializable {
     private static final long serialVersionUID =123456789;
     private final User psiholog;
