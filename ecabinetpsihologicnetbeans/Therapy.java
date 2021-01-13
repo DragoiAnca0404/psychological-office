@@ -7,10 +7,6 @@ package ecabinetpsihologicnetbeans;
 
 import java.io.Serializable;
 
-/**
- *
- * @author ARKAN01D
- */
 public class Therapy implements Serializable{
     private final String name;
     private final int price;
