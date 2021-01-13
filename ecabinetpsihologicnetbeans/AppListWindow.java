@@ -7,10 +7,7 @@ package ecabinetpsihologicnetbeans;
 
 import java.awt.*;
 
-/**
- *
- * @author ARKAN01D
- */
+
 public class AppListWindow extends Frame {
     public  static AppListWindow last;
     private final Panel pnl;
