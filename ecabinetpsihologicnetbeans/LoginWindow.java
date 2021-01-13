@@ -12,10 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ARKAN01D
- */
+
 public class LoginWindow extends Frame {
 
     private final Label titlu = new Label("eCabinetPsihologic");
