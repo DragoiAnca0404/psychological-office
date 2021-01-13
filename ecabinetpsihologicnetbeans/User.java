@@ -7,10 +7,6 @@ package ecabinetpsihologicnetbeans;
 
 import java.io.Serializable;
 
-/**
- *
- * @author ARKAN01D
- */
 public class User implements Serializable{
     private static final long serialVersionUID =314159265;
     private final String user, password,nume,prenume,rol;
