@@ -16,10 +16,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ARKAN01D
- */
+
 public class AvizWindow extends Frame {
     private final int MIN_AGE=18;
     private final int MAX_AGE=99;
