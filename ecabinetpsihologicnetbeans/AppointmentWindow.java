@@ -13,10 +13,6 @@ import java.util.Date;
 import java.util.logging.*;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ARKAN01D
- */
 public class AppointmentWindow extends Frame {
 
     private final Button btn = new Button("Creeaza Programare");
