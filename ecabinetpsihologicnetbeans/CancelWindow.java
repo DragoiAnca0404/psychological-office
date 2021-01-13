@@ -11,10 +11,7 @@ import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
-/**
- *
- * @author ARKAN01D
- */
+
 public class CancelWindow extends Frame{
     
     private Panel pnl=new Panel();
