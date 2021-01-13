@@ -11,10 +11,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-/**
- *
- * @author ARKAN01D
- */
+
 public class MainWindow extends Frame {
 
     private final Button b1, b2, b3, b4;
