@@ -14,10 +14,7 @@ import java.io.ObjectOutputStream;
 import java.time.LocalDateTime;
 import java.util.Date;
 
-/**
- *
- * @author ARKAN01D
- */
+
 public class Main {
 
     /**
